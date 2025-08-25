@@ -35,7 +35,7 @@ This project implements a transformer-based GPT-style language model trained fro
 - 4 attention heads per block
 - 1024-dimensional feedforward layers
 - Causal masking for autoregressive generation
-- Total Parameters: **~8.28 million**
+- Total Parameters: **~8.29 million**
 
 ---
 
